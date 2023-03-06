@@ -61,6 +61,19 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">https://icepear.top/hexo-shoka-config2/</guid>
+            <title>shoka主题博客个人配置笔记（下）</title>
+            <link>https://icepear.top/hexo-shoka-config2/</link>
+            <category term="web" scheme="https://icepear.top/categories/web/" />
+            <category term="hexo" scheme="https://icepear.top/categories/web/hexo/" />
+            <category term="hexo" scheme="https://icepear.top/tags/hexo/" />
+            <category term="shoka" scheme="https://icepear.top/tags/shoka/" />
+            <category term="web" scheme="https://icepear.top/tags/web/" />
+            <pubDate>Sun, 01 Jan 2023 22:03:24 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;实际上还在调，听我说，你别急 (●&#39;◡&#39;●) 因为别急是一种态度，一种张弛有度，后面忘了，但这不是很酷吗，满足我对科技的所有幻想&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://icepear.top/hexo-shoka-config1/</guid>
             <title>shoka主题博客个人配置笔记（上）</title>
             <link>https://icepear.top/hexo-shoka-config1/</link>
@@ -103,19 +116,6 @@
 &lt;h1 id=&#34;后记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#后记&#34;&gt;#&lt;/a&gt; 后记&lt;/h1&gt;
 &lt;p&gt;&lt;s&gt;因为跟调整图片大小搏斗，忘了一个，但是无所谓&lt;/s&gt;&lt;/p&gt;
 &lt;p&gt;&lt;s&gt;写这篇不到 1k 字的文章最终用了三个小时，现在是凌晨 1 点 08，我治好了我自己的精神内耗。(2023.1.2 语)&lt;/s&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://icepear.top/hexo-shoka-config2/</guid>
-            <title>shoka主题博客个人配置笔记（下）</title>
-            <link>https://icepear.top/hexo-shoka-config2/</link>
-            <category term="web" scheme="https://icepear.top/categories/web/" />
-            <category term="hexo" scheme="https://icepear.top/categories/web/hexo/" />
-            <category term="hexo" scheme="https://icepear.top/tags/hexo/" />
-            <category term="shoka" scheme="https://icepear.top/tags/shoka/" />
-            <category term="web" scheme="https://icepear.top/tags/web/" />
-            <pubDate>Sun, 01 Jan 2023 22:03:24 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;实际上还在调，听我说，你别急 (●&#39;◡&#39;●) 因为别急是一种态度，一种张弛有度，后面忘了，但这不是很酷吗，满足我对科技的所有幻想&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
